@@ -29,7 +29,7 @@
 
 - 下記よりダウンロードした、php-cs-fixer.pharを指定のフォルダへ配置する
   - https://cs.sensiolabs.org/
-  - C:\Users\\<USER\>\.vscode に配置
+  - C:\Users\\<USER\>\\.vscode に配置
 
 ### php-cs-fixer
 
