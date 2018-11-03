@@ -29,7 +29,7 @@
 
 - 下記よりダウンロードした、php-cs-fixer.pharを指定のフォルダへ配置する
   - https://cs.sensiolabs.org/
-  - C:\Users\<USER>\.vscode に配置
+  - C:\Users\\<USER\>\.vscode に配置
 
 ### php-cs-fixer
 
@@ -40,7 +40,7 @@
   - 以下設定を入力し完了
 
   ```
-    //php-cs-fixer settings
+  //php-cs-fixer settings
   "php-cs-fixer.executablePath": "${extensionPath}\\php-cs-fixer.phar",
   "php-cs-fixer.executablePathWindows": "<composer.jsonのパス>\\vendor\\bin\\php-cs-fixer.bat",   //eg: php-cs-fixer.bat
   "php-cs-fixer.onsave": false,
